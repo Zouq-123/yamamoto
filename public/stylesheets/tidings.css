@@ -1,0 +1,15 @@
+*{margin:0;padding:0;}
+li{list-style:none;}
+a{text-decoration:none;}
+.box{width:100%;height:auto;position:relative;}
+
+.nav{width:100%;height:111px;background:red;}
+
+.content{width:100%;height:500px;}
+.single{width:150px;height:500px;float:right;}
+.single>h1{width:150px;font-size:15px;font-weight:400;color:#3d3d3d;margin-bottom:30px;line-height:25px;height:25px;text-align:center;}
+.single>ul{width:100%;height:auto;}
+.single>ul>li{width:120px;height:16px;padding:8px 7px 7px 15px;background:url(../images/topic_arrow.png) 5px center no-repeat;border-bottom:1px solid #efefef;font-size:12px;color:#555;}
+
+.aa{clear:both;}
+.bottom{width:100%;height:1120px;background:blue;}
